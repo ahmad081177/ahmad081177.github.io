@@ -1,1 +1,0 @@
-import{n as e}from"./chunk-CFjPhJqf.js";var t,n=e((()=>{t=globalThis||self}));export{n,t};
